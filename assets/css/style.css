@@ -1,0 +1,55 @@
+body{ 
+	background-image: url("../images/spiration-light.png");
+}
+h4{position: absolute;
+		bottom: 50px;
+		background-color: #337ab7;
+		color: white;
+		font-size: 20px;
+		margin-top: 10px;
+		width: 100%;
+		text-align: center;
+		padding: 9px;
+	}
+.profile{
+	width: 280px;
+	margin: 0 15px 15px 0;
+}
+
+.icon{
+	height: 60px;
+	width: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+}
+.footer{
+	padding-top: 20px;
+}
+.navbar{
+	background-color: #337ab7;
+}
+.navbar-default .navbar-brand{
+	color: #fff;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+	color: white;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover{
+	color: white;
+}
+.pimg{
+	padding-bottom: 10px;
+	width: 100%;
+}
+.pcol{
+	padding: 0;
+	margin-left: 5%;
+}
